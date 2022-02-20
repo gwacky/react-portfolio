@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/gwacky/react-portfolio/static/css/main.8e4dfaf6.chunk.css",
+    "main.js": "/gwacky/react-portfolio/static/js/main.6451d01c.chunk.js",
+    "main.js.map": "/gwacky/react-portfolio/static/js/main.6451d01c.chunk.js.map",
+    "runtime-main.js": "/gwacky/react-portfolio/static/js/runtime-main.c14bc88e.js",
+    "runtime-main.js.map": "/gwacky/react-portfolio/static/js/runtime-main.c14bc88e.js.map",
+    "static/js/2.ceffa50f.chunk.js": "/gwacky/react-portfolio/static/js/2.ceffa50f.chunk.js",
+    "static/js/2.ceffa50f.chunk.js.map": "/gwacky/react-portfolio/static/js/2.ceffa50f.chunk.js.map",
+    "static/js/3.ceb9b950.chunk.js": "/gwacky/react-portfolio/static/js/3.ceb9b950.chunk.js",
+    "static/js/3.ceb9b950.chunk.js.map": "/gwacky/react-portfolio/static/js/3.ceb9b950.chunk.js.map",
+    "index.html": "/gwacky/react-portfolio/index.html",
+    "precache-manifest.f113d5014c7bf46e29ebecc8276b389c.js": "/gwacky/react-portfolio/precache-manifest.f113d5014c7bf46e29ebecc8276b389c.js",
+    "service-worker.js": "/gwacky/react-portfolio/service-worker.js",
+    "static/css/main.8e4dfaf6.chunk.css.map": "/gwacky/react-portfolio/static/css/main.8e4dfaf6.chunk.css.map",
+    "static/js/2.ceffa50f.chunk.js.LICENSE.txt": "/gwacky/react-portfolio/static/js/2.ceffa50f.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/gwacky/react-portfolio/static/media/Resume.b9a3497d.pdf",
+    "static/media/note-taker-app.jpg": "/gwacky/react-portfolio/static/media/note-taker-app.53216277.jpg",
+    "static/media/password-generator.jpg": "/gwacky/react-portfolio/static/media/password-generator.2196c28f.jpg",
+    "static/media/profilePic.JPG": "/gwacky/react-portfolio/static/media/profilePic.d5fb920a.JPG",
+    "static/media/run-buddy.jpg": "/gwacky/react-portfolio/static/media/run-buddy.f8823cf2.jpg",
+    "static/media/taskinator.jpg": "/gwacky/react-portfolio/static/media/taskinator.14359259.jpg",
+    "static/media/taskmaster-pro.jpg": "/gwacky/react-portfolio/static/media/taskmaster-pro.3f9918df.jpg",
+    "static/media/weather-dashboard.jpg": "/gwacky/react-portfolio/static/media/weather-dashboard.8f116854.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c14bc88e.js",
+    "static/js/2.ceffa50f.chunk.js",
+    "static/css/main.8e4dfaf6.chunk.css",
+    "static/js/main.6451d01c.chunk.js"
+  ]
+}
